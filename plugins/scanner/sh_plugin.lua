@@ -7,7 +7,7 @@ nut.config.add(
 	15,
 	"How often scanners can take pictures.",
 	nil,
-	{category = PLUGIN.name}
+	{category = "miscellaneous"}
 )
 
 if (CLIENT) then
